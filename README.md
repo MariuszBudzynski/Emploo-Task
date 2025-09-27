@@ -3,6 +3,7 @@
 **Opis To do**
 
 Zadanie 2 – Zapytania LINQ
+
 //e => Employee class
 
 a) 
@@ -42,3 +43,4 @@ var teams = context.Teams
     .Where(t => !t.Employees
         .Any(e => e.Vacations.Any(v => v.DateSince <= to && v.DateUntil >= from)))
     .ToList();
+
