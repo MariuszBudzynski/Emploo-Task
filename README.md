@@ -1,4 +1,5 @@
-﻿# Emplo-zadanie
+//To do - poprawic formatowanie
+ # Emplo-zadanie
 
 INFO - rozwiazanie zadan 2 i 6 jest bezposrednio w readme reszta reszta zadan zostala podzielona na projekty typu class library oraz zadanie 5 jako XUnit
 
@@ -130,4 +131,5 @@ var pagedEmployees = context.Employees
 ```
 
 ---
+
 
