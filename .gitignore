@@ -9,3 +9,8 @@
 /Task2.Models/obj
 /Task3/obj
 /Task4/obj
+/Task2.Models/bin/Debug/net8.0
+/Task3/bin/Debug/net8.0
+/Task4/bin/Debug/net8.0
+/Task5.Tests/bin
+/Task5.Tests/obj
