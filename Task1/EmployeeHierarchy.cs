@@ -27,7 +27,8 @@ namespace Task1
             return relation?.Level;
         }
 
-        //helper methods
+        // ------------------ PRIVATE HELPERS ------------------
+
         private void ProcessEmployee(
         Employee employee,
         List<Employee> employees,
