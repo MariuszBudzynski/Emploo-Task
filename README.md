@@ -1,7 +1,11 @@
-//To do - poprawic formatowanie
- # Emplo-zadanie
+# Emplo – Zadanie Rekrutacyjne
 
-INFO - rozwiazanie zadan 2 i 6 jest bezposrednio w readme reszta reszta zadan zostala podzielona na projekty typu class library oraz zadanie 5 jako XUnit
+Rozwiązanie zadań rekrutacyjnych.
+
+- **Zadania 2 i 6** znajdują się bezpośrednio w tym README.  
+- **Pozostałe zadania** zostały podzielone na projekty typu *Class Library*.  
+- **Zadanie 5** zostało zrealizowane jako projekt testowy **xUnit**.  
+- Dodałem także testy jednostkowe do **zadania 3**, aby zweryfikować poprawność metody. 
 
 ## Zadanie 2 – Zapytania LINQ
 
@@ -131,5 +135,6 @@ var pagedEmployees = context.Employees
 ```
 
 ---
+
 
 
